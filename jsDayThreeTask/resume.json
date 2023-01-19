@@ -1,0 +1,51 @@
+
+// question No: 2
+// Topic: JSON RESUME FORMAT
+
+
+
+resume = {
+    Data : {
+       "name": "santhosh kumar",
+       "Gender": "Male",
+       "Address": {
+           "HouseNumber": "62/26",
+           "Area": "Jothi Talkies East Street"
+           "Location": "Ammapet",
+           "District": "salem",
+           "State": "Tamilnadu",
+           "Nationality": "Indian",
+       }
+       "EducationalQualification": {
+           "BoardOfEducation": "StateBoardOfTamilagam",
+           "marks": {
+               "SSLC": "427/500 ",
+               "HSFY": "419/600"
+               "HSSY": "390/600",
+               "UG:{
+                   "BScBotany":{
+                       "firstSemester": "pass",
+                       "SecondSemester": "Pass",
+                       "ThirdSemester": "pass",
+                       "FourthSemester": "pass",
+                       "fifthtSemester": "pass",
+                       "SixthSemester": "Fail"
+                   },
+                   
+               },
+           "position": "Full Stack Learner",
+           "Institute": "GUVI"
+           },
+      
+       "DateOfBirth": "31/3/2002",
+       "AreaOfIntrest": {
+           "Technology": "Defence,ModernAgriculture,webTechnnology,AI,MartialArts",
+       }
+        "Status": "Single"
+       "Email": "santhosh3132002@gmail.com",
+       "ContactNo": 9080475735,
+    }
+    
+   }
+   
+    
